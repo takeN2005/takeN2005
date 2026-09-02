@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @takeN2005
-- 👀 I’m interested in learning how to program
-- 🌱 I’m currently taking a degree in informatic engeneering
-<!---
-takeN2005/takeN2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Studying Computer Engineering in Leiria, Portugal
+🛠️ Currently building TAKEPAGA, a SaaS for invoicing & quotes for Portuguese freelancers
+🛍️ Recently shipped Essential Bicycles, a full e-commerce site with a custom admin panel
+🌱 Learning: React patterns, Next.js App Router, PostgreSQL row-level security
+📫 Reach me at: add your email or LinkedIn here 
